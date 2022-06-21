@@ -1,5 +1,5 @@
-# shiny-sniffle
-Android Compose-based GitHub reviews stats tracker
+# unbiased-potato
+GitHub reviews stats tracker
 
 # License
 ```
